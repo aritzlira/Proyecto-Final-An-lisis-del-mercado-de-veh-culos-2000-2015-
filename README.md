@@ -177,3 +177,4 @@ El estudio de la distribución de precios revela que el mercado está fuertement
 Finalmente, al relacionar precio y consumo, se aprecia que no existe una relación lineal directa entre ambas variables. Esto sugiere que un mayor precio no implica necesariamente un mayor consumo, y que factores como la marca, el tipo de vehículo o la tecnología utilizada influyen de manera significativa.
 
 Este README actúa como informe explicativo del análisis realizado.
+Debido al tamaño de algunos archivos (datasets y dashboard), se ha utilizado Git LFS para su gestión en el repositorio.
