@@ -178,3 +178,6 @@ Finalmente, al relacionar precio y consumo, se aprecia que no existe una relaci�
 
 Este README actúa como informe explicativo del análisis realizado.
 Debido al tamaño de algunos archivos (datasets y dashboard), se ha utilizado Git LFS para su gestión en el repositorio.
+
+Nota: Debido a problemas de compatibilidad al abrir el archivo de Excel desde GitHub, el dashboard final se ha subido también a Google Drive. En caso de error al descargarlo desde el repositorio, se puede acceder al archivo mediante el siguiente enlace: 
+https://drive.google.com/drive/folders/18dkZIJOf83ZoAblqP9WV1KYDoQkOg8g3?usp=share_link
